@@ -8,8 +8,8 @@
 // Scope de la aplicación: Es el alcance que tiene una variable en el código.
 // Puede ser global o local.
 
-var nombre = "Juan";
-console.log("Mi nombre es " + nombre);
+var nombre = 8;
+console.log("Mi nombre es", nombre);
 console.log(typeof nombre);
 
 var edad = 25;
@@ -28,3 +28,5 @@ var puestoDeTrabajo;
 console.log(typeof puestoDeTrabajo);
 puestoDeTrabajo = "Desarrollador Web";
 console.log("Mi puesto de trabajo es " + puestoDeTrabajo);
+
+console.log(2 + 2);
