@@ -30,3 +30,4 @@ puestoDeTrabajo = "Desarrollador Web";
 console.log("Mi puesto de trabajo es " + puestoDeTrabajo);
 
 console.log(2 + 2);
+

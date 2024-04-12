@@ -13,6 +13,10 @@ var nombre = "Juan";
 
 // += Asignación de adición
 
+var numero = 1;
+numero = numero + 1;
+console.log(numero);
+
 // 2. Operadores Aritméticos
 
 // + Suma
